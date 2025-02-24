@@ -1,6 +1,6 @@
 ## `@Check` is ignored on STI variants
 
-Issue: https://github.com/mikro-orm/mikro-orm/discussions/6222
+Issue: https://github.com/mikro-orm/mikro-orm/issues/6450
 
 Repro:
 
